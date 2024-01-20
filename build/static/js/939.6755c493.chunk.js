@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdefence_post=self.webpackChunkdefence_post||[]).push([[939],{6939:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});var o=s(2791),r=s(184);const n=e=>{let{wordArray:t}=e;const[s,n]=(0,o.useState)("");return(0,o.useEffect)((()=>{(async()=>{for(;;)for(const e of t){for(const t of e)n((e=>e+t)),await new Promise((e=>setTimeout(e,500)));await new Promise((e=>setTimeout(e,1500))),n("")}})()}),[]),(0,r.jsx)("div",{children:s})}}}]);
+//# sourceMappingURL=939.6755c493.chunk.js.map
